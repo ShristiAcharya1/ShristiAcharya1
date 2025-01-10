@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Shristi
 - 👀 I’m interested in web development and ciber security
 - 🌱 I’m currently learning python.
-- 📫 How to reach me ......linkedin profile coming soon 
+- 📫 How to reach me ......linkedIn profile coming soon 
 - ⚡ Fun fact:Iam visual Artist .
 <!---
 ShristiAcharya1/ShristiAcharya1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
